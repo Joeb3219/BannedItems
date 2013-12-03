@@ -1,0 +1,6 @@
+name: BannedItems
+main: com.charredgames.plugin.banneditems.BannedItems
+version: 0.0.1
+description: Removes banned items from inventories, and the recipes used to create them.
+author: Joe Boyle
+website: http://www.charredgames.com
